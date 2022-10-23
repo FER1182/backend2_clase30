@@ -1,0 +1,10 @@
+2022/10/23 16:28:08 [notice] 14672#17964: signal process started
+2022/10/23 16:30:21 [error] 25096#12144: *18 connect() failed (10061: No connection could be made because the target machine actively refused it) while connecting to upstream, client: 127.0.0.1, server: nginx_node, request: "GET /api/randoms HTTP/1.1", upstream: "http://127.0.0.1:8082/api/randoms", host: "localhost"
+2022/10/23 16:30:23 [error] 25096#12144: *18 connect() failed (10061: No connection could be made because the target machine actively refused it) while connecting to upstream, client: 127.0.0.1, server: nginx_node, request: "GET /api/randoms HTTP/1.1", upstream: "http://127.0.0.1:8083/api/randoms", host: "localhost"
+2022/10/23 16:30:25 [error] 25096#12144: *18 connect() failed (10061: No connection could be made because the target machine actively refused it) while connecting to upstream, client: 127.0.0.1, server: nginx_node, request: "GET /api/randoms HTTP/1.1", upstream: "http://127.0.0.1:8084/api/randoms", host: "localhost"
+2022/10/23 16:30:27 [error] 25096#12144: *18 connect() failed (10061: No connection could be made because the target machine actively refused it) while connecting to upstream, client: 127.0.0.1, server: nginx_node, request: "GET /api/randoms HTTP/1.1", upstream: "http://127.0.0.1:8085/api/randoms", host: "localhost"
+2022/10/23 16:31:57 [notice] 24016#22904: signal process started
+2022/10/23 17:01:16 [notice] 12412#6704: signal process started
+2022/10/23 17:18:59 [notice] 9704#10560: signal process started
+2022/10/23 17:32:26 [notice] 24260#25116: signal process started
+2022/10/23 17:33:30 [notice] 4244#3640: signal process started

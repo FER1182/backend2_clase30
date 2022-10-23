@@ -1,0 +1,1 @@
+console.log("recurso estatido desde Nginx fer")
